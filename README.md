@@ -1,4 +1,4 @@
-# Winter Arc 2025-2026
+# Winter Training Cycle 2025-2026
 
 This repository will house my plans regarding training and diet for this upcoming winter.
 This plan begins 11/01/25 and will end 02/28/26.
