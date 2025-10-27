@@ -1,5 +1,6 @@
 # OCTOBER 6th-31st: Prep
  Upper/Lower split 3/4 days a week, fasting/cutting & less dialed in with lifting but fairly consistent.
+ Towards the end of the month I was more experimental with my lifts to figure out how I want to train.
 
 ## SPLIT
  This month I used an alternating upper lower split with a rest day between every lift.
