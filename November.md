@@ -1,39 +1,22 @@
-# November 3rd-28th
- Upper/Lower split 3/4 days a week 
+# NOVEMBER PLAN
+ This is a PLAN.
 
-## SPLIT
-
-
-| Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun | # Lifts |
-|------|-----|-----|-----|-----|-----|-----|-----|---------|
-| 1    | U   |     | L   |     | U   |     | L   | 4       |
-| 2    |     | U   |     | L   |     | U   |     | 3       |
-| 3    | L   |     | U   |     | L   |     | U   | 4       |
-| 4    |     | L   |     | U   |     | L   |     | 3       |
+## GOALS
+* Steadily regain cut weight (1-2 lbs per week)
+  * Eat, Eat, Eat
+* Get my big 3 lifts back to respectable numbers
+  * CONSISTENCY & EFFORT
+* Get consistent sleep
+  * 8 hours is LAW
 
 
-## ROUTINES
+## DIET
+* Coffee & easy breakfast
+* Lunch at school
+* Snack in the afternoon
+* Post gym easy protein
+* Cook a dinner feast
+* Snack evening
 
-#### FORMAT
-* Exercise \#sets x \#reps
-  * Suoerset
-
-### Upper
-
-
-#### UPPER A
-
-
-#### Upper B
-
-
-#### Upper C
-
-
-### Lower
-
-
-#### Lower A
-
-
-#### Lower B
+## Training
+* 
