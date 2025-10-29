@@ -6,7 +6,7 @@
   * Eat, Eat, Eat
 * Get my big 3 lifts back to respectable numbers
   * CONSISTENCY & EFFORT
-* Get consistent sleep
+* Get better sleep
   * 8 hours is LAW
 
 
@@ -18,5 +18,24 @@
 * Cook a dinner feast
 * Snack evening
 
-## Training
-* 
+## TRAINING
+ TWo alternating routines, P/P/L and U/L/U/L
+|  SUN  |  MON  |  TUE  |  WED  |  THU  |  FRI  |  SAT  |
+|-------|-------|-------|-------|-------|-------|-------|
+|       | PULL  |       | PUSH  |       | LEGS  |       |
+| UPPER |       | LOWER |       | UPPER |       | LOWER |
+|       | PULL  |       | PUSH  |       | LEGS  |       |
+| UPPER |       | LOWER |       | UPPER |       | LOWER |
+### THE ROUTINES
+#### HARDCORE P/P/L
+##### 
+* Pullovers
+* Wide Lat Pulldowns
+* DEADLIFT
+* Curls
+##### SHOULDERS/CHEST/TRIS
+* Lat Raise
+* Machine Shoulder Press
+* BENCH
+* Triceps
+##### LEGS
