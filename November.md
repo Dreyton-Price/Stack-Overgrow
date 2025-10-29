@@ -19,7 +19,7 @@
 * Snack evening
 
 ## TRAINING
- TWo alternating routines, P/P/L and U/L/U/L
+ Two alternating routines, P/P/L and U/L/U/L
 |  SUN  |  MON  |  TUE  |  WED  |  THU  |  FRI  |  SAT  |
 |-------|-------|-------|-------|-------|-------|-------|
 |       | PULL  |       | PUSH  |       | LEGS  |       |
@@ -28,7 +28,7 @@
 | UPPER |       | LOWER |       | UPPER |       | LOWER |
 ### THE ROUTINES
 #### HARDCORE P/P/L
-##### 
+##### BACK/BICEPS
 * Pullovers
 * Wide Lat Pulldowns
 * DEADLIFT
